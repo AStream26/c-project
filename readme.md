@@ -1,4 +1,3 @@
-// Made by @ap-darknight, in collabration with @Astream26
 
 This project was a work for C language, which is solely based on Great Circle Distance based formula.
 
